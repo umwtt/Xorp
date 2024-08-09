@@ -30,7 +30,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
 2. Proje dizinine gidin:
 
     ```bash
-    cd java-sohbet-programi
+    cd Xorp\"xorp 1.0.0v"\src
     ```
 
 3. Maven kullanıyorsanız, bağımlılıkları yükleyin:
@@ -53,7 +53,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
    Sunucu tarafını çalıştırmak için aşağıdaki komutu kullanın:
 
     ```bash
-    java -cp bin com.example.Server
+    java -cp bin org.umwtt.Server
     ```
 
 2. **İstemciyi Başlatın:**
@@ -61,7 +61,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izley
    İstemciyi başlatmak için yeni bir terminalde aşağıdaki komutu çalıştırın:
 
     ```bash
-    java -cp bin com.example.Client
+    java -cp bin org.umwtt.Client
     ```
 
 3. **Giriş Yapın veya Kayıt Olun:**
